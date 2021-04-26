@@ -1,0 +1,101 @@
+
+
+p{
+	font-family: Courier;
+	font-style: normal;
+
+
+}
+
+
+header{
+
+	background-color: #81DAF5;
+	height: 80px;
+	padding: 20px;
+}
+
+
+
+footer{
+	clear: both;
+	background-color: #81DAF5;
+	height: 50px;
+	text-align: center;
+	padding: 10px;
+}
+
+/*#div_esquerda {
+
+	background-color: red;
+	min-height: 200px;
+	width: 60%;
+	float: left;
+}
+
+#div_direita {
+
+	background-color: black;
+	min-height: 200px;
+	width: 40%;
+	float: right;
+}*/
+h1{
+	color: #000000;
+	text-shadow: 1px 1px 1px #111111;
+	text-align: center;
+	margin: 0 0 50px 0;
+}
+
+p{
+	text-align: center;
+
+}
+
+#principal {
+
+	background-image: url('compdog.jpg');
+	clear:both;
+	background-size: 100%;
+	min-height: 800px;
+	padding: 100px 0 0;
+	
+}
+
+#logo{
+	float: left;
+}
+
+
+#menu{
+	float: right;
+}
+
+#menu a{
+    
+    margin-top: 20px;
+	padding: 10px;
+	text-decoration: none;
+	color: #111;
+	text-shadow: 1px 1px  #111111;
+
+}
+
+#menu a:hover{
+
+	background-color: #111;
+	color: #81DAF5;
+}
+
+.container{
+	
+	width: 700px;
+	margin: 0 auto;
+}
+
+.efeito{
+
+	background-color: rgba(0,0,0,0.5);
+	padding: 100px 0 100px 0;
+
+}
