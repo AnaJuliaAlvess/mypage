@@ -10,7 +10,7 @@ p{
 
 header{
 
-	background-color: #81DAF5;
+	background-color: #385963;
 	height: 80px;
 	padding: 20px;
 }
@@ -19,7 +19,7 @@ header{
 
 footer{
 	clear: both;
-	background-color: #81DAF5;
+	background-color: #385963;
 	height: 50px;
 	text-align: center;
 	padding: 10px;
@@ -84,7 +84,7 @@ p{
 #menu a:hover{
 
 	background-color: #111;
-	color: #81DAF5;
+	color: #3b535a;
 }
 
 .container{
