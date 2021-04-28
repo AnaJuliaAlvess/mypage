@@ -1,0 +1,108 @@
+
+
+p{
+	font-family: Courier;
+	font-style: normal;
+
+
+}
+
+div.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    opacity: 1.0;
+    height: 50px;
+    padding: 10px;
+   
+    
+ }
+
+ /*
+header{
+    font: secular one;
+	background-color: #f9feff;
+	height: 50px;
+	padding: 10px;
+}*/
+
+
+/*
+footer{
+	clear: both;
+	background-color: #8FCBDF;
+	height: 50px;
+	text-align: center;
+	padding: 10px;
+}*/
+
+/*#div_esquerda {
+
+	background-color: red;
+	min-height: 200px;
+	width: 60%;
+	float: left;
+}
+
+#div_direita {
+
+	background-color: black;
+	min-height: 200px;
+	width: 40%;
+	float: right;
+}*/
+h1{
+	color: #fbfbfb;
+	text-shadow: 1px 1px 1px #111111;
+	text-align: center;
+	margin: 0 0 50px 0;
+}
+
+p{
+	text-align: center;
+
+}
+
+#principal {
+
+	background-image: url('dog.jpg');
+	clear:both;
+	background-size: 100%;
+	min-height: 900px;
+	padding: 100px 0 0;
+	
+}
+
+#logo{
+	float: left;
+}
+
+
+#menu{
+	float: right;
+    
+}
+
+#menu a{
+    
+    margin-top: 50px;
+	padding: 100px;
+	text-decoration: none;
+	color: #8FCBDF;
+    width: 0px;
+    height: 0px;
+    	
+
+}
+
+#menu a:hover{
+
+	background-color: #f27405;
+	
+}
+/*
+.container{
+	
+	width: 100px;
+	margin: 0 auto;
+}*/
