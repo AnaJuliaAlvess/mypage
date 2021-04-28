@@ -9,13 +9,23 @@ p{
 
 
 header{
-
-	background-color: #385963;
+	position: fixed;
+	background-color:none;
+	opacity: 1.0;
 	height: 50px;
+	width: 1440px;
 	padding: 5px;
 }
 
-
+.button button{
+	background:none;
+	color: #24a3bf;
+	border:white;
+	font-size: 20px;
+	justify-content: center;
+   	font-family:"Secular One", sans-serif;
+	margin-left: 90px;
+}
 
 footer{
 	clear: both;
